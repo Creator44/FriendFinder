@@ -6,7 +6,7 @@ var htmlRoutes = require('./app/routing/html-routes.js');
 var apiRoutes = require('./app/routing/api-routes.js');
 //express setup
 var app = express();
-var PORT = process.env.PORT || 80;
+var PORT = process.env.PORT || 3000;
 //sets up express to serve static files
 app.use(express.static(path.join(__dirname, 'app/public')));
 //set up express to parse data

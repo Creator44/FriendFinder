@@ -8,7 +8,7 @@ var mysql = require('mysql');
 var connection = mysql.createConnection({
     host: "mydbinstance.coacymxlgea4.us-west-2.rds.amazonaws.com",
     port: 3306,
-    user: "spencercharest",
+    user: "Creator44",
     password: key,
     database: "friendFinder"
 });

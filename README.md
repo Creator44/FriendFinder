@@ -1,4 +1,4 @@
-##Week 12 Homework for The Coding Bootcamp at UCLA Extension
+##FriendFinder App
 
 ### Overview ###
 This application takes in results of users' surveys, then compares their answers with those from other users. The app then displays the name and picture of the user with the best overall match.
